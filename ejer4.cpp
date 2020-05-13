@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    string nombre;
+    char nombre[20];
     int cantidad;
     float precio, total;
 
